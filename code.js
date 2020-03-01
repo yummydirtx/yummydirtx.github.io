@@ -1,3 +1,4 @@
+function playGame() {
 var ok = confirm('are you ready?');
 if (ok){
 alert('alright!');
@@ -509,4 +510,5 @@ if (firstAnswer === '1'){
 }
 } else {
     alert('ok... come back another time');
+}
 }
