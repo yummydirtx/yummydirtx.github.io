@@ -5,7 +5,8 @@ h1 {
 	font-size: 45px;
 }
 input {
-	text-align: center;
+	display: flex;
+	justify-content: center;
 }
 h2 {
 	text-align: center;
