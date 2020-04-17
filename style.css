@@ -11,3 +11,10 @@ clickMe {
 h2 {
 	text-align: left;
 }
+.gallery {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  justify: center;
+}
