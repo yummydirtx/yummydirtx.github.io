@@ -47,3 +47,7 @@ h2 {
 	  float: center;
 	  text-align: center;
   }
+  @font-face {
+	font-family: 'Comic Sans MS';
+	src: url("fonts/COMIC.TTF");
+  }
